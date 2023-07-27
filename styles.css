@@ -432,6 +432,8 @@ button.white{
     border-top-left-radius: 0;
     border-bottom-left-radius: 0;
 }
+
+/* Per footer-footeran */
 footer{
     display: flex;
     flex-wrap: wrap;
@@ -499,6 +501,12 @@ footer a:hover{
 footer .copyright{
     width: 100%;
     text-align: center;
+}
+
+.logo-footer{
+    padding: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
 }
 
 /* shop page */
